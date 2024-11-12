@@ -204,22 +204,6 @@ Hồ Chí Minh University of Science, Hồ Chí Minh City.
 
 Computer Center of Hồ Chí Minh University of Science
 
----
-
-## 📞References
-
-📌 **Mr. Trần Hoàng Phong** [phongthvn@gmail.com](mailto:phongthvn@gmail.com)
-Technical Director of VieON
-Former Managing Director of HDViet
-
-📌 **Mr. Ôn Như Bình** [on.binh86@gmail.com](mailto:on.binh86@gmail.com)
-CEO of EMDDI
-Former Director of Strategy at VNPAY, VNLIFE Group.
-Former Project Manager at Garena Vietnam
-
-📌 **Mr. Hồ Trung Dũng** [hotrdung@gmail.com](mailto:hotrdung@gmail.com)
-Technical Manager at Teko Technology Vietnam
-
 </details>
 
 <details>
